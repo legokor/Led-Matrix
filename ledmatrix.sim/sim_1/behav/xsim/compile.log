@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/ledmatrix/ledmatrix.srcs/sources_1/new/RGBtoLED.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RGBtoLED
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/ledmatrix/ledmatrix.srcs/sources_1/new/bitSender.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitSender
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/ledmatrix/ledmatrix.srcs/sources_1/new/testLoader.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testLoader
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/ledmatrix/ledmatrix.srcs/sim_1/new/testLoaderTest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testLoaderTest

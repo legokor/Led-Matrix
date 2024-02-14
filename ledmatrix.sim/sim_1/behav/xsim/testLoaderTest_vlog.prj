@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ledmatrix.srcs/sources_1/new/RGBtoLED.v" \
+"../../../../ledmatrix.srcs/sources_1/new/bitSender.v" \
+"../../../../ledmatrix.srcs/sources_1/new/testLoader.v" \
+"../../../../ledmatrix.srcs/sim_1/new/testLoaderTest.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
