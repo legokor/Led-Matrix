@@ -1,0 +1,2 @@
+vhdl work "bitSender.vhd"
+vhdl work "bitSenderTest.vhd"

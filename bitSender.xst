@@ -1,0 +1,5 @@
+set -tmpdir "C:/codes/ledmatrix_vhdl/xst/projnav.tmp"
+set -xsthdpdir "C:/codes/ledmatrix_vhdl/xst"
+elaborate
+-ifn bitSender.prj
+-ifmt mixed

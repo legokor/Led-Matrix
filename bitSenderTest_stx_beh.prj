@@ -1,0 +1,2 @@
+vhdl isim_temp "bitSender.vhd"
+vhdl isim_temp "bitSenderTest.vhd"

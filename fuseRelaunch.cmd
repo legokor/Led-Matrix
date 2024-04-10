@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/codes/ledmatrix_vhdl/bitSenderTest_isim_beh.exe" -prj "C:/codes/ledmatrix_vhdl/bitSenderTest_beh.prj" "work.bitSenderTest" 

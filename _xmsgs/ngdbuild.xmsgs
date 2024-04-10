@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemOE&quot;       LOC = &quot;T2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(51)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemOE</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemOE&quot;       LOC = &quot;T2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(51)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;FlashCS&quot;     LOC = &quot;R5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(63)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">FlashCS</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;FlashCS&quot;     LOC = &quot;R5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(63)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;1&gt;&quot;   LOC = &quot;J1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(66)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;1&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;1&gt;&quot;   LOC = &quot;J1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(66)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;2&gt;&quot;   LOC = &quot;J2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(67)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;2&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;2&gt;&quot;   LOC = &quot;J2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(67)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;3&gt;&quot;   LOC = &quot;H4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(68)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;3&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;3&gt;&quot;   LOC = &quot;H4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(68)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;4&gt;&quot;   LOC = &quot;H1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(69)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;4&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;4&gt;&quot;   LOC = &quot;H1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(69)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;5&gt;&quot;   LOC = &quot;H2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(70)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;5&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;5&gt;&quot;   LOC = &quot;H2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(70)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;6&gt;&quot;   LOC = &quot;J5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(71)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;6&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;6&gt;&quot;   LOC = &quot;J5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(71)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;7&gt;&quot;   LOC = &quot;H3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(72)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;7&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;7&gt;&quot;   LOC = &quot;H3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(72)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;8&gt;&quot;   LOC = &quot;H6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(73)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;8&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;8&gt;&quot;   LOC = &quot;H6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(73)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;9&gt;&quot;   LOC = &quot;F1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(74)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;9&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;9&gt;&quot;   LOC = &quot;F1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(74)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;10&gt;&quot;  LOC = &quot;G3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(75)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;10&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;10&gt;&quot;  LOC = &quot;G3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(75)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;11&gt;&quot;  LOC = &quot;G6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(76)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;11&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;11&gt;&quot;  LOC = &quot;G6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(76)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;12&gt;&quot;  LOC = &quot;G5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(77)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;12&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;12&gt;&quot;  LOC = &quot;G5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(77)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;13&gt;&quot;  LOC = &quot;G4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(78)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;13&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;13&gt;&quot;  LOC = &quot;G4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(78)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;14&gt;&quot;  LOC = &quot;F2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(79)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;14&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;14&gt;&quot;  LOC = &quot;F2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(79)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;15&gt;&quot;  LOC = &quot;E1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(80)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;15&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;15&gt;&quot;  LOC = &quot;E1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(80)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;16&gt;&quot;  LOC = &quot;M5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(81)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;16&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;16&gt;&quot;  LOC = &quot;M5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(81)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;17&gt;&quot;  LOC = &quot;E2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(82)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;17&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;17&gt;&quot;  LOC = &quot;E2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(82)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;18&gt;&quot;  LOC = &quot;C2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(83)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;18&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;18&gt;&quot;  LOC = &quot;C2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(83)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;19&gt;&quot;  LOC = &quot;C1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(84)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;19&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;19&gt;&quot;  LOC = &quot;C1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(84)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;20&gt;&quot;  LOC = &quot;D2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(85)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;20&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;20&gt;&quot;  LOC = &quot;D2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(85)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;21&gt;&quot;  LOC = &quot;K3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(86)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;21&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;21&gt;&quot;  LOC = &quot;K3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(86)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;22&gt;&quot;  LOC = &quot;D1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(87)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;22&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;22&gt;&quot;  LOC = &quot;D1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(87)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemAdr&lt;23&gt;&quot;  LOC = &quot;K6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(88)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemAdr&lt;23&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemAdr&lt;23&gt;&quot;  LOC = &quot;K6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(88)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;0&gt;&quot;    LOC = &quot;L1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(90)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;0&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;0&gt;&quot;    LOC = &quot;L1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(90)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;1&gt;&quot;    LOC = &quot;L4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(91)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;1&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;1&gt;&quot;    LOC = &quot;L4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(91)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;2&gt;&quot;    LOC = &quot;L6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(92)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;2&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;2&gt;&quot;    LOC = &quot;L6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(92)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;3&gt;&quot;    LOC = &quot;M4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(93)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;3&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;3&gt;&quot;    LOC = &quot;M4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(93)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;4&gt;&quot;    LOC = &quot;N5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(94)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;4&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;4&gt;&quot;    LOC = &quot;N5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(94)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;5&gt;&quot;    LOC = &quot;P1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(95)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;5&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;5&gt;&quot;    LOC = &quot;P1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(95)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;6&gt;&quot;    LOC = &quot;P2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(96)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;6&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;6&gt;&quot;    LOC = &quot;P2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(96)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;7&gt;&quot;    LOC = &quot;R2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(97)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;7&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;7&gt;&quot;    LOC = &quot;R2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(97)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;8&gt;&quot;    LOC = &quot;L3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(98)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;8&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;8&gt;&quot;    LOC = &quot;L3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(98)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;9&gt;&quot;    LOC = &quot;L5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(99)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;9&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;9&gt;&quot;    LOC = &quot;L5&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(99)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;10&gt;&quot;   LOC = &quot;M3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(100)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;10&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;10&gt;&quot;   LOC = &quot;M3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(100)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;11&gt;&quot;   LOC = &quot;M6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(101)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;11&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;11&gt;&quot;   LOC = &quot;M6&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(101)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;12&gt;&quot;   LOC = &quot;L2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(102)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;12&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;12&gt;&quot;   LOC = &quot;L2&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(102)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;13&gt;&quot;   LOC = &quot;N4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(103)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;13&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;13&gt;&quot;   LOC = &quot;N4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(103)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;14&gt;&quot;   LOC = &quot;R3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(104)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;14&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;14&gt;&quot;   LOC = &quot;R3&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(104)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;MemDB&lt;15&gt;&quot;   LOC = &quot;T1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(105)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">MemDB&lt;15&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;MemDB&lt;15&gt;&quot;   LOC = &quot;T1&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(105)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;sw0&quot;       LOC = &quot;G18&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(137)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">sw0</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;sw0&quot;       LOC = &quot;G18&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(137)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;PIO0&quot;      LOC = &quot;B4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(170)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">PIO0</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;PIO0&quot;      LOC = &quot;B4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(170)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;PIO1&quot;      LOC = &quot;A4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(171)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">PIO1</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;PIO1&quot;      LOC = &quot;A4&quot;;&gt; [C:/codes/ledmatrix/Nexys2_500UCF.ucf(171)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+</messages>
+

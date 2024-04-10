@@ -1,0 +1,478 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -nt timestamp -uc C:/codes/ledmatrix/Nexys2_500UCF.ucf -p
+xc3s500e-fg320-4 bitSender.ngc bitSender.ngd
+
+Reading NGO file "C:/codes/ledmatrix_vhdl/bitSender.ngc" ...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file
+"C:/codes/ledmatrix/Nexys2_500UCF.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+ERROR:ConstraintSystem:59 - Constraint <NET "MemOE"       LOC = "T2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(51)]: NET "MemOE" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemOE"       LOC = "T2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(51)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "FlashCS"     LOC = "R5";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(63)]: NET "FlashCS" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "FlashCS"     LOC = "R5";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(63)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<1>"   LOC = "J1";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(66)]: NET "MemAdr<1>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<1>"   LOC = "J1";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(66)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<2>"   LOC = "J2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(67)]: NET "MemAdr<2>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<2>"   LOC = "J2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(67)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<3>"   LOC = "H4";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(68)]: NET "MemAdr<3>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<3>"   LOC = "H4";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(68)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<4>"   LOC = "H1";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(69)]: NET "MemAdr<4>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<4>"   LOC = "H1";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(69)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<5>"   LOC = "H2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(70)]: NET "MemAdr<5>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<5>"   LOC = "H2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(70)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<6>"   LOC = "J5";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(71)]: NET "MemAdr<6>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<6>"   LOC = "J5";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(71)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<7>"   LOC = "H3";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(72)]: NET "MemAdr<7>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<7>"   LOC = "H3";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(72)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<8>"   LOC = "H6";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(73)]: NET "MemAdr<8>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<8>"   LOC = "H6";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(73)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<9>"   LOC = "F1";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(74)]: NET "MemAdr<9>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<9>"   LOC = "F1";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(74)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<10>"  LOC = "G3";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(75)]: NET "MemAdr<10>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<10>"  LOC = "G3";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(75)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<11>"  LOC = "G6";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(76)]: NET "MemAdr<11>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<11>"  LOC = "G6";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(76)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<12>"  LOC = "G5";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(77)]: NET "MemAdr<12>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<12>"  LOC = "G5";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(77)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<13>"  LOC = "G4";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(78)]: NET "MemAdr<13>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<13>"  LOC = "G4";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(78)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<14>"  LOC = "F2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(79)]: NET "MemAdr<14>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<14>"  LOC = "F2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(79)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<15>"  LOC = "E1";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(80)]: NET "MemAdr<15>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<15>"  LOC = "E1";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(80)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<16>"  LOC = "M5";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(81)]: NET "MemAdr<16>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<16>"  LOC = "M5";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(81)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<17>"  LOC = "E2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(82)]: NET "MemAdr<17>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<17>"  LOC = "E2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(82)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<18>"  LOC = "C2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(83)]: NET "MemAdr<18>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<18>"  LOC = "C2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(83)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<19>"  LOC = "C1";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(84)]: NET "MemAdr<19>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<19>"  LOC = "C1";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(84)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<20>"  LOC = "D2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(85)]: NET "MemAdr<20>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<20>"  LOC = "D2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(85)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<21>"  LOC = "K3";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(86)]: NET "MemAdr<21>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<21>"  LOC = "K3";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(86)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<22>"  LOC = "D1";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(87)]: NET "MemAdr<22>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<22>"  LOC = "D1";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(87)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemAdr<23>"  LOC = "K6";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(88)]: NET "MemAdr<23>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemAdr<23>"  LOC = "K6";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(88)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<0>"    LOC = "L1";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(90)]: NET "MemDB<0>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<0>"    LOC = "L1";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(90)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<1>"    LOC = "L4";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(91)]: NET "MemDB<1>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<1>"    LOC = "L4";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(91)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<2>"    LOC = "L6";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(92)]: NET "MemDB<2>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<2>"    LOC = "L6";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(92)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<3>"    LOC = "M4";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(93)]: NET "MemDB<3>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<3>"    LOC = "M4";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(93)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<4>"    LOC = "N5";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(94)]: NET "MemDB<4>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<4>"    LOC = "N5";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(94)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<5>"    LOC = "P1";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(95)]: NET "MemDB<5>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<5>"    LOC = "P1";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(95)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<6>"    LOC = "P2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(96)]: NET "MemDB<6>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<6>"    LOC = "P2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(96)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<7>"    LOC = "R2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(97)]: NET "MemDB<7>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<7>"    LOC = "R2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(97)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<8>"    LOC = "L3";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(98)]: NET "MemDB<8>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<8>"    LOC = "L3";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(98)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<9>"    LOC = "L5";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(99)]: NET "MemDB<9>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<9>"    LOC = "L5";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(99)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<10>"   LOC = "M3";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(100)]: NET "MemDB<10>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<10>"   LOC = "M3";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(100)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<11>"   LOC = "M6";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(101)]: NET "MemDB<11>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<11>"   LOC = "M6";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(101)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<12>"   LOC = "L2";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(102)]: NET "MemDB<12>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<12>"   LOC = "L2";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(102)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<13>"   LOC = "N4";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(103)]: NET "MemDB<13>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<13>"   LOC = "N4";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(103)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<14>"   LOC = "R3";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(104)]: NET "MemDB<14>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<14>"   LOC = "R3";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(104)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "MemDB<15>"   LOC = "T1";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(105)]: NET "MemDB<15>" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "MemDB<15>"   LOC = "T1";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(105)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "sw0"       LOC = "G18";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(137)]: NET "sw0" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "sw0"       LOC = "G18";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(137)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "PIO0"      LOC = "B4";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(170)]: NET "PIO0" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "PIO0"      LOC = "B4";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(170)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET "PIO1"      LOC = "A4";>
+   [C:/codes/ledmatrix/Nexys2_500UCF.ucf(171)]: NET "PIO1" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "PIO1"      LOC = "A4";> [C:/codes/ledmatrix/Nexys2_500UCF.ucf(171)]'
+   could not be found and so the Locate constraint will be removed.
+
+Done...
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:    44
+  Number of warnings:  44
+
+Total memory usage is 4398396 kilobytes
+
+Total REAL time to NGDBUILD completion:  2 sec
+Total CPU time to NGDBUILD completion:   1 sec
+
+One or more errors were found during NGDBUILD.  No NGD file will be written.
+
+Writing NGDBUILD log file "bitSender.bld"...

@@ -1,0 +1,41 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/codes/ledmatrix_vhdl/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> Parameter xsthdpdir set to C:/codes/ledmatrix_vhdl/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/codes/ledmatrix_vhdl/bitSender.vhd" in Library work.
+Entity <bitsender> compiled.
+ERROR:HDLParsers:800 - "C:/codes/ledmatrix_vhdl/bitSender.vhd" Line 60. Type of rdy is incompatible with type of 1.
+ERROR:HDLParsers:800 - "C:/codes/ledmatrix_vhdl/bitSender.vhd" Line 61. Type of rdy is incompatible with type of 0.
+ERROR:HDLParsers:800 - "C:/codes/ledmatrix_vhdl/bitSender.vhd" Line 60. Type of rdy is incompatible with type of 1.
+ERROR:HDLParsers:800 - "C:/codes/ledmatrix_vhdl/bitSender.vhd" Line 61. Type of rdy is incompatible with type of 0.
+ERROR:HDLParsers:3312 - "C:/codes/ledmatrix_vhdl/bitSender.vhd" Line 73. Undefined symbol 'sent'.
+ERROR:HDLParsers:1209 - "C:/codes/ledmatrix_vhdl/bitSender.vhd" Line 81. sent: Undefined symbol (last report in this block)
+ERROR:HDLParsers:164 - "C:/codes/ledmatrix_vhdl/bitSender.vhd" Line 128. parse error, unexpected WHEN, expecting SEMICOLON
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> 
+
+Total memory usage is 4468684 kilobytes
+
+Number of errors   :    7 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
