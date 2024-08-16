@@ -55,7 +55,7 @@ initial begin
     write <= 0;
     state <= idle;
     pictureCounter <= 0;
-    $readmemh("ujlego.mem",pictureData,0,5375);
+    $readmemh("testfile.mem",pictureData,0,5375);
 end
  
 always @(posedge sysclk)begin
